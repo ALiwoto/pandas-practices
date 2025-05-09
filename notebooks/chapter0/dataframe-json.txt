@@ -1,0 +1,10 @@
+{"StudentsName":"Mr.A","Score":14,"classNum":3}
+{"StudentsName":"Mr.B","Score":5,"classNum":3}
+{"StudentsName":"Mr.C","Score":2,"classNum":3}
+{"StudentsName":"Mr.D","Score":4,"classNum":3}
+{"StudentsName":"Mr.E","Score":1,"classNum":3}
+{"StudentsName":"Mr.F","Score":2,"classNum":3}
+{"StudentsName":"Mr.G","Score":12,"classNum":3}
+{"StudentsName":"Mr.H","Score":7,"classNum":3}
+{"StudentsName":"Mr.I","Score":5,"classNum":3}
+{"StudentsName":"Mr.J","Score":5,"classNum":3}
