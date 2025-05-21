@@ -1,6 +1,7 @@
 {
     "recommendations": [
         "janisdd.vscode-edit-csv",
-        "ms-python.vscode-pylance"
+        "ms-python.vscode-pylance",
+        "ms-toolsai.jupyter"
     ]
 }
